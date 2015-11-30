@@ -12,7 +12,9 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def deps do
           [{:cps, "~> 0.0.1"}]
         end
+
      or
+
         def deps do
           [{:cps, github: "k1complete/cps" }]
         end
